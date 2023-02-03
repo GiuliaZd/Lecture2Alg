@@ -23,13 +23,15 @@
 
   > Refer to `./src/search-binary.cpp`
 
+  > the answer: the maximum number of steps is 16 steps
+
 ## Task 4/5: Quiz
 
 32 teams qualified for the 2014 World Cup. If the names of the teams were arranged in sorted order (an array), how many items in the array would binary search have to examine to find the location of a particular team in the array, in the worst case?
 
 - [] At most, 32.
 - [] At most, 1.
-- [] At most, 6.
+- [x] At most, 6.
 - [] At most, 16.
 
 ## Task 5/5: Individual, at home
