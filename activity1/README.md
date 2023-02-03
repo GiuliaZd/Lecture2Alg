@@ -15,7 +15,7 @@
 
   > Refer to `./src/search-linear.cpp`
 
-  the answer is
+  the answer: the maximum number of steps is 100 000 steps
 
 ## Task 3/5: Decrease-and-Conquer
 
